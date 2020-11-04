@@ -1,0 +1,17 @@
+{
+    "scripts": {
+        "start": "gulp watch",
+        "serve": "cd dist; php -S localhost:5050"
+    },
+    "dependencies": {
+        "bootstrap": "^4.5.0",
+        "minimatch": "^3.0.4",
+        "node": "^12.13.0"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^7.0.1",
+        "gulp-sass": "^4.0.2",
+        "node-sass": "^4.13.0"
+    }
+}

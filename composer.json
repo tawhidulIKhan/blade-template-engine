@@ -1,0 +1,14 @@
+{
+    "name": "tawhid/blade-template-engine",
+    "authors": [
+        {
+            "name": "Tawhidul Islam Khan",
+            "email": "tawhid.developer@gmail.com"
+        }
+    ],
+    "require": {
+        "philo/laravel-blade": "^3.1",
+        "fzaninotto/faker": "^1.9",
+        "mbezhanov/faker-provider-collection": "^1.2"
+    }
+}
